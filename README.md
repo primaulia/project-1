@@ -2,6 +2,8 @@
 
 **This game is inspired by the iconic video game, PAC-MAN.**
 
+Pacman pacpacpacpac
+
 ## How to play?
 
 #### Instructions:
